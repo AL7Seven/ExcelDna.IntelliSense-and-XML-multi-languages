@@ -1,0 +1,15 @@
+<IntelliSense xmlns="http://schemas.excel-dna.net/intellisense/1.0">
+  <FunctionInfo>
+		<Function Name="AddTwo" Description="Ajoute + 2 au nombre"
+					HelpTopic="http://www.google.com" >
+			<Argument Name="Number" Description="Le nombre à additionner" />
+	</Function>
+		<Function Name="Add2Numbers" Description="Fait la somme des 2 nombres"
+					HelpTopic="http://www.google.com" >
+			<Argument Name="Number1" Description="nombre 1 à ajouter" />
+			<Argument Name="Number2" Description="nombre 2 à ajouter" />
+	</Function></FunctionInfo>
+	<CountryInfo>
+		 <Country Code="1036" Name="fr-FR"/>
+	</CountryInfo>
+</IntelliSense>
